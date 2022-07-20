@@ -1,4 +1,4 @@
-e@charset "UTF-8";
+@charset "UTF-8";
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700,800,900,400,400italic);
 
@@ -116,6 +116,10 @@ e@charset "UTF-8";
 	color: #ffffff;
 }
 
+.imginter{
+	height: 50px;
+	width: 50px;
+}
 /*forms*/
 .form-control {
 	height: 50px;
